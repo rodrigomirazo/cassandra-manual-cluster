@@ -1,0 +1,1 @@
+# cassandra-manual-cluster
